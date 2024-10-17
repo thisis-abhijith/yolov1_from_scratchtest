@@ -1,0 +1,6 @@
+pandas
+numpy
+tensorflow
+beautifulsoup4
+opencv-python
+matplotlib
